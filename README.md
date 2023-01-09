@@ -2,8 +2,6 @@ Al clonar el proyecto se debe editar el archivo .env.example (cambiarle el nombr
 
 composer install
 php artisan key:generate
-npm install
-npm run dev
 php artisan migrate --seed
 
 usuarios de prueba:
