@@ -9,9 +9,11 @@ php artisan migrate --seed
 usuarios de prueba:
 
 - Administrador: 
+
 email: admin@gmail.com 
 password: password
 
 - Cliente:
+
 email: user@gmail.com 
 password: password
